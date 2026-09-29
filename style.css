@@ -1,0 +1,14 @@
+/* Poore page ka rang */
+body{ background: #ffe6f2; margin: 0; font-family: Arial; }
+
+/* Upar ki patti */
+nav{ background: hotpink; color: white; padding: 15px; text-align: center; }
+
+/* Bada wala box */
+.hero{ background: white; text-align: center; padding: 20px; }
+
+/* Chote white box */
+.box{ background: white; margin: 20px; padding: 20px; border-radius: 10px; }
+
+/* Neeche wala */
+footer{ background: hotpink; color: white; text-align: center; padding: 10px; }
