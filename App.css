@@ -1,0 +1,14 @@
+.card {
+  border: 2px solid gold;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  width: 180px;
+}
+.card button {
+  background: black;
+  color: white;
+  padding: 8px 15px;
+  border: none;
+  cursor: pointer;
+}
